@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. P. B. Ekanayake | Yasitha Liyanage</title>
+    <link>https://yliyanage.github.io/author/m.-p.-b.-ekanayake/</link>
+      <atom:link href="https://yliyanage.github.io/author/m.-p.-b.-ekanayake/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. P. B. Ekanayake</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yliyanage.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. P. B. Ekanayake</title>
+      <link>https://yliyanage.github.io/author/m.-p.-b.-ekanayake/</link>
+    </image>
+    
+    <item>
+      <title>Real-time non-intrusive appliance load monitoring under supply voltage fluctuations</title>
+      <link>https://yliyanage.github.io/publication/8257804/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8257804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Navigation System for mapping unknown environments</title>
+      <link>https://yliyanage.github.io/publication/7946543/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/7946543/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

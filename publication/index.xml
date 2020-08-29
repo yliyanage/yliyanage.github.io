@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yasitha Liyanage</title>
+    <link>https://yliyanage.github.io/publication/</link>
+      <atom:link href="https://yliyanage.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yliyanage.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://yliyanage.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>On–The–Fly Feature Selection and Classification with Application to Civic Engagement Platforms</title>
+      <link>https://yliyanage.github.io/publication/9053564/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/9053564/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-the-Fly Joint Feature Selection and Classification</title>
+      <link>https://yliyanage.github.io/publication/liyanage-2020-onthefly/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/liyanage-2020-onthefly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Optimal Online Civil Issue Classification using Multiple Feature Sets</title>
+      <link>https://yliyanage.github.io/publication/9048766/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/9048766/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automating the Classification of Urban Issue Reports: an Optimal Stopping Approach</title>
+      <link>https://yliyanage.github.io/publication/8682778/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8682778/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Freeway Accident Detection: A Two–Stage Approach</title>
+      <link>https://yliyanage.github.io/publication/8683569/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8683569/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hierarchical Framework for Timely Freeway Accident Detection and Localization</title>
+      <link>https://yliyanage.github.io/publication/8622060/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8622060/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QUICKEST FREEWAY ACCIDENT DETECTION UNDER UNKNOWN POST-ACCIDENT CONDITIONS</title>
+      <link>https://yliyanage.github.io/publication/8646617/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8646617/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WHAT MATTERS THE MOST? OPTIMAL QUICK CLASSIFICATION OF URBAN ISSUE REPORTS BY IMPORTANCE</title>
+      <link>https://yliyanage.github.io/publication/8646639/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8646639/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Sequential Detection of Freeway Accidents</title>
+      <link>https://yliyanage.github.io/publication/8645501/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8645501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaw and pitch control of a twin rotor MIMO system</title>
+      <link>https://yliyanage.github.io/publication/8300405/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8300405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time non-intrusive appliance load monitoring under supply voltage fluctuations</title>
+      <link>https://yliyanage.github.io/publication/8257804/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/8257804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-intrusive load monitoring under residential solar power influx</title>
+      <link>https://yliyanage.github.io/publication/dinesh-20171068/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/dinesh-20171068/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Navigation System for mapping unknown environments</title>
+      <link>https://yliyanage.github.io/publication/7946543/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/7946543/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
