@@ -5,12 +5,28 @@
     <link>https://yliyanage.github.io/publication/</link>
       <atom:link href="https://yliyanage.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 03:46:59 +0000</lastBuildDate>
     <image>
       <url>https://yliyanage.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://yliyanage.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Near Real-Time Freeway Accident Detection</title>
+      <link>https://yliyanage.github.io/publication/9216632/</link>
+      <pubDate>Sun, 01 Nov 2020 03:46:59 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/9216632/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequential Heterogeneous Feature Selection for Multi–Class Classification: Application in Government 2.0</title>
+      <link>https://yliyanage.github.io/publication/9231767/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://yliyanage.github.io/publication/9231767/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On–The–Fly Feature Selection and Classification with Application to Civic Engagement Platforms</title>
