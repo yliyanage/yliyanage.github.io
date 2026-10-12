@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://yliyanage.github.io/publication/causal-attribution-azure-control-plane-anomalies/</loc>
+    <lastmod>2026-10-11</lastmod>
+  </url>
+  <url>
+    <loc>https://yliyanage.github.io/publication/0000001/</loc>
+  </url>
+  <url>
+    <loc>https://yliyanage.github.io/publication/0000002/</loc>
+  </url>
+  <url>
+    <loc>https://yliyanage.github.io/publication/0000003/</loc>
+  </url>
+  <url>
     <loc>https://yliyanage.github.io/publication-type/1/</loc>
-    <lastmod>2021-05-23T17:34:49-04:00</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/publication-type/2/</loc>
     <lastmod>2021-09-11T08:45:55-04:00</lastmod>
@@ -33,13 +46,13 @@
     <lastmod>2021-09-11T08:45:55-04:00</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/publication/</loc>
-    <lastmod>2021-09-11T08:45:55-04:00</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/</loc>
-    <lastmod>2021-09-11T08:45:55-04:00</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/author/yasitha-warahena-liyanage/</loc>
-    <lastmod>2021-09-11T08:45:55-04:00</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/author/c.-chelmis/</loc>
     <lastmod>2020-10-31T23:46:59-04:00</lastmod>
@@ -93,7 +106,7 @@
     <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/author/y.-liyanage/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/publication/8645501/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
@@ -147,7 +160,7 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/author/yasitha-liyanage/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-11</lastmod>
   </url><url>
     <loc>https://yliyanage.github.io/author/d.-m.-n.-jayasuriya/</loc>
     <lastmod>2016-12-01T00:00:00+00:00</lastmod>
@@ -172,7 +185,5 @@
     <loc>https://yliyanage.github.io/post/</loc>
   </url><url>
     <loc>https://yliyanage.github.io/talk/</loc>
-  </url><url>
-    <loc>https://yliyanage.github.io/author/yasitha-liyanage/</loc>
   </url>
 </urlset>
